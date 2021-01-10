@@ -4,9 +4,24 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
+
 h1 {
   font-size: 80px;
 }
+
 h2 {
   font-size: 80px;
+}
+
+div{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 200px;
+  width: 580px;
+  text-align: center;
+  background-color: powderblue;
 }
